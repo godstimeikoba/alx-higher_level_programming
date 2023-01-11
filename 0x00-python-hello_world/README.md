@@ -2,6 +2,7 @@ Python - Hello, World
 In this project, Python and shell scripting was used as well as interpreter, printing text and variables, indexing and slicing strings in Python.
 
 Function Prototypes 💾
+
 Prototypes for functions written in this project:
 
 File	Prototype
